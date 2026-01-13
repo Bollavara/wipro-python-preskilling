@@ -17,4 +17,7 @@ print(A&B) #Intersection
 
 #Availability - Membership
 print(2 in A)
-#Frozen Set
+
+#Assignment operator
+a=b=c=2
+print(b)
